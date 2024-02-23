@@ -1,0 +1,5 @@
+# Mac things
+.DS_Store
+
+# Raw Sequences
+sequences/*

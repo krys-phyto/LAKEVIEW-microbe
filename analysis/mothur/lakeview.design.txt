@@ -1,0 +1,9 @@
+group	treatment
+Lakeview1	shore
+Lakeview2	near-shore
+Lakeview3	far-shore
+Lakeview4	middle
+Lakeview5	middle
+Lakeview6	far-shore
+Lakeview7	near-shore
+Lakeview8	shore
